@@ -7,3 +7,6 @@ First-Steps towards Generative AI
 5. Implement the Model in pytorch
 6. Research and Test Different Methodologies to Improve performance of the Model
 7. Prepare a Report on Conclusions
+8. Implement Fine-tuning to Foundation Models
+9. Create Websites with API calls
+10. Create Websites with your own LLM
